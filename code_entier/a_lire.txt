@@ -1,0 +1,3 @@
+Voici mon code python en entier c'est à dire sans que les classes soient séparées. 
+Etant donné que je débute avec python, c'est compliqué pour moi de faire des fichiers séparés,
+dans le sens où c'est compliqué de comprendre la tracibilité de chacun des dossiers ainsi que de lier le fonctionnement
