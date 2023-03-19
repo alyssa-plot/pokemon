@@ -1,1 +1,1 @@
-Si code non fonctionnel, je vous invite à aller dans le dossier "pokemon_code_entier"
+Si code non fonctionnel, je vous invite à aller dans le dossier "code_entier"
